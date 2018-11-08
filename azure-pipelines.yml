@@ -2,8 +2,8 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 variables:
-    azureSubscription: 'tipascoa Visual Studio Enterprise'
-    azureContainerRegistry: tipascoa.azurecr.io
+    azureSubscription: 'BlueSoft MSDN'
+    azureContainerRegistry: ameller.azurecr.io
     imageName: crochunter:$(Build.BuildId)
 
 steps:
