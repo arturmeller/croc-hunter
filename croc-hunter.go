@@ -45,7 +45,7 @@ const (
 				<div class="details">
 				<strong>Hostname: </strong>%s<br>
 				<strong>Release: </strong>%s<br>
-				<strong>Commit: </strong>%s<br>
+				<strong>Commit ID: </strong>%s<br>
 				<strong>Powered By: </strong>%s<br>
 				</div>
 			</body>
